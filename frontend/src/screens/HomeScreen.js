@@ -4,11 +4,11 @@ import Product from '../components/Product'
 
 const HomeScreen = () => {
     return (
-        <>
+        <div>
           {products.map((product)=>
             <Product product={product}/>
           )}  
-        </>
+        </div>
     )
 }
 
