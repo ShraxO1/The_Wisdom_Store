@@ -1,0 +1,22 @@
+{
+  "name": "the_wisdom_store",
+  "version": "1.0.0",
+  "description": "MERN Shopping App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShraxO1/The_Wisdom_Store.git"
+  },
+  "author": "Shray Tyagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShraxO1/The_Wisdom_Store/issues"
+  },
+  "homepage": "https://github.com/ShraxO1/The_Wisdom_Store#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
