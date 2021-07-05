@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "MERN Shopping App",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/ShraxO1/The_Wisdom_Store#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
