@@ -19,7 +19,8 @@
   "homepage": "https://github.com/ShraxO1/The_Wisdom_Store#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
   },
   "devDependencies": {
     "concurrently": "^6.2.0",
